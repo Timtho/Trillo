@@ -22,24 +22,14 @@ https://mkarasinski.github.io/Trillo/
 ## Demo
 
 <p align="center">
-  <img src="./demo/part_1.gif" />
+  <img src="./demo/Trilo.gif" />
 </p>
   
 <p align="center">
-  <img src="./demo/part_2.gif" />
+  <img src="./demo/Trilo.png" />
 </p>
   
-<p align="center">
-  <img src="./demo/part_3.gif" />
-</p>
-  
-<p align="center">
-  <img src="./demo/part_4.gif" />
-</p>
-  
-<p align="center">
-  <img src="./demo/part_5.gif" />
-</p>
+
 
 ## Sources
 This app is based on Advanced CSS and SASS Tutorial by Jonas Schmedtmann on Udemy.  
