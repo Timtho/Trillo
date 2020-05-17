@@ -22,11 +22,11 @@ https://mkarasinski.github.io/Trillo/
 ## Demo
 
 <p align="center">
-  <img src="./demo/Trilo.gif" />
+  <img src="./demo/Trillo.gif" />
 </p>
   
 <p align="center">
-  <img src="./demo/Trilo.png" />
+  <img src="./demo/Trillo.png" />
 </p>
   
 
