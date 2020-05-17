@@ -6,6 +6,8 @@ Trilo front-end project
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Try out](#try-out)
+* [Demo](#demo)
+* [Mobile view](#mobile-view)
 * [Sources](#sources)
 
 ## General info
