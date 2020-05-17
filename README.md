@@ -10,11 +10,12 @@ Trilo front-end project
 
 ## General info
 
-The application
+This is front-end only project. One of travel agency's subpages. The layout of page is based on CSS Flexbox.
 
 ## Technologies
-* JavaScript 2015+
-* Webpack
+* HTML
+* CSS
+* SASS
 
 ## Try out
 https://mkarasinski.github.io/Trillo/
@@ -24,16 +25,13 @@ https://mkarasinski.github.io/Trillo/
 <p align="center">
   <img src="./demo/Trillo.gif" />
 </p>
-<p align="center">
-  View for mobile
-</p>
+
+## Mobile view
   
 <p align="center">
   <img src="./demo/Trillo.png" />
 </p>
   
-
-
 ## Sources
 This app is based on Advanced CSS and SASS Tutorial by Jonas Schmedtmann on Udemy.  
 https://www.udemy.com/course/advanced-css-and-sass/
