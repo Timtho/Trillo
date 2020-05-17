@@ -12,7 +12,7 @@ Trilo front-end project
 
 ## General info
 
-This is front-end only project. One of travel agency's subpages. The layout of page is based on CSS Flexbox.
+The project contains only front-end design of the app. One of travel agency's subpages. The layout of page is based on CSS Flexbox.
 
 ## Technologies
 * HTML
