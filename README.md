@@ -24,6 +24,9 @@ https://mkarasinski.github.io/Trillo/
 <p align="center">
   <img src="./demo/Trillo.gif" />
 </p>
+<p align="center">
+  View for mobile
+</p>
   
 <p align="center">
   <img src="./demo/Trillo.png" />
