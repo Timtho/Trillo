@@ -1,5 +1,5 @@
 # Trillo
-Trilo front-end project
+Trilo front-end responsive web design project
 
 
 ## Table of contents
